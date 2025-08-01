@@ -1,0 +1,6 @@
+@JiuJitsuApi_HostAddress = http://localhost:5177
+
+GET {{JiuJitsuApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
